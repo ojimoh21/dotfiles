@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ojimoh21@live.co.uk
+	name = muinat jimoh
